@@ -1,4 +1,5 @@
 ## Git-Example
+commit 1
 This repo is to store some lab with Git
 
 ### Lab 01: Install Git
